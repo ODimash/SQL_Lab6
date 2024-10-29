@@ -37,7 +37,7 @@
 1. Склонируйте репозиторий на ваш компьютер:
 
    ```bash
-   git clone https://github.com/ваш_логин/ваш_репозиторий.git
+   git clone https://github.com/ODimash/SQL_Lab6
    ```
 
 2. Откройте SQL Server Management Studio или командную строку `sqlcmd`.
